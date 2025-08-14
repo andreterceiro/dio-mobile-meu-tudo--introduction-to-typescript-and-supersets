@@ -48,3 +48,8 @@ You can. You do not need to specify 'any' as example. Please see the property 'n
 # Slides of the classes
 
 [link](https://hermes.dio.me/files/assets/5f9d9e9d-ea07-43ed-97ee-3d3b5a113f0a.pptx)
+
+
+# Regpository related of the classes
+
+[link](https://github.com/digitalinnovationone/formacao-nodejs/tree/main/10-typescript)
