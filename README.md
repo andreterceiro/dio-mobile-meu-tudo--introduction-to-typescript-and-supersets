@@ -27,3 +27,5 @@ Interesting. Please access [this link](https://www.typescriptlang.org/docs/).
 # TypeScript playground
 
 [Link](https://www.typescriptlang.org/play/)
+
+![playground](images/playground.png)
