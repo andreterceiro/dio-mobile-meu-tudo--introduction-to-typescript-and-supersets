@@ -36,3 +36,10 @@ Interesting. Please access [this link](https://www.typescriptlang.org/docs/).
 [Link](https://www.typescriptlang.org/cheatsheets/)
 
 ![cheat sheets](images/cheat-sheets.png)
+
+
+# Using without specifying a type
+
+You can. You do not need to specify 'any' as example. Please see the property 'name' in the next image.
+
+![without-type](images/without-a-type.png)
