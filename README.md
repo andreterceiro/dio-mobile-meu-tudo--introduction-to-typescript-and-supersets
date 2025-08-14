@@ -43,3 +43,8 @@ Interesting. Please access [this link](https://www.typescriptlang.org/docs/).
 You can. You do not need to specify 'any' as example. Please see the property 'name' in the next image.
 
 ![without-type](images/without-a-type.png)
+
+
+# Slides of the classes
+
+[link](https://hermes.dio.me/files/assets/5f9d9e9d-ea07-43ed-97ee-3d3b5a113f0a.pptx)
