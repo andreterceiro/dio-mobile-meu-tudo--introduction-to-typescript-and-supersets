@@ -8,3 +8,5 @@ See in this image that to define a specific class format you do not need a class
 # Comparing runtime against compile time errors
 
 ![compile time x runtime errors](images/errors--compile-tyle-x-runtime.png)
+
+A comment: although TypeScript transpile a code and not compile it, we can think in things in compile time (in transpilation time), problems that JavaaScript can not detect.
