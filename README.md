@@ -29,3 +29,8 @@ Interesting. Please access [this link](https://www.typescriptlang.org/docs/).
 [Link](https://www.typescriptlang.org/play/)
 
 ![playground](images/playground.png)
+
+
+# TypeScript cheat sheets
+
+[Link](https://www.typescriptlang.org/cheatsheets/)
