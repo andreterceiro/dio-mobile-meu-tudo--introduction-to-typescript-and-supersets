@@ -34,3 +34,5 @@ Interesting. Please access [this link](https://www.typescriptlang.org/docs/).
 # TypeScript cheat sheets
 
 [Link](https://www.typescriptlang.org/cheatsheets/)
+
+![cheat sheets](images/cheat-sheets.png)
