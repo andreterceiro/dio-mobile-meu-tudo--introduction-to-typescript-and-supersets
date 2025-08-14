@@ -22,3 +22,8 @@ A comment: although TypeScript transpile a code and not compile it, we can think
 Interesting. Please access [this link](https://www.typescriptlang.org/docs/).
 
 ![TypeScript documentation](images/interesting-typescript-documentation.png)
+
+
+# TypeScript playground
+
+[Link](https://www.typescriptlang.org/play/)
