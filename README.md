@@ -15,3 +15,8 @@ A comment: although TypeScript transpile a code and not compile it, we can think
 # Interesting StackOverflow survey (2023)
 
 ![StackOverFlow survey - 2023](images/2023-stackoverflow-survey.png)
+
+
+# Typescript documentation in the official website
+
+Interesting. Please access [this link](https://www.typescriptlang.org/docs/).
