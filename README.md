@@ -20,3 +20,5 @@ A comment: although TypeScript transpile a code and not compile it, we can think
 # Typescript documentation in the official website
 
 Interesting. Please access [this link](https://www.typescriptlang.org/docs/).
+
+![TypeScript documentation](images/interesting-typescript-documentation.png)
